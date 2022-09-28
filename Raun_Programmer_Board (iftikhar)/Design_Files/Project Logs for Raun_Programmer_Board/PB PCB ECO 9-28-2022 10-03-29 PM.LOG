@@ -1,0 +1,30 @@
+Added Component: Designator=J1(HDR_F_1X6)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/span-style-background-color-ff0-Female-span-Headers_BOOMELE-Boom-Precision-Elec-C40877_C40877.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C40877"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOOMELE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C40877"; VariantName = "[No Variations]"
+Added Component: Designator=J2(10Pin 1.27mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/span-style-background-color-ff0-Pin-span-Headers_DEALON-DW127R-22-10-23_C2935953.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C2935953"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DEALON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "DW127R-22-10-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Custom"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=J1-1
+Added Pin To Net: NetName=3V3 Pin=J2-1
+Added Net: Name=3V3
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Net: Name=GND
+Added Pin To Net: NetName=RST_ Pin=J1-5
+Added Pin To Net: NetName=RST_ Pin=J2-10
+Added Net: Name=RST_
+Added Pin To Net: NetName=SWDCLK_ Pin=J1-3
+Added Pin To Net: NetName=SWDCLK_ Pin=J2-4
+Added Net: Name=SWDCLK_
+Added Pin To Net: NetName=SWDIO_ Pin=J1-2
+Added Pin To Net: NetName=SWDIO_ Pin=J2-2
+Added Net: Name=SWDIO_
+Added Class: Name=Main_Sheet
